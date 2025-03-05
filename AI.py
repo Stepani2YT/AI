@@ -1,4 +1,3 @@
-import json
 from g4f.client import Client
 from gtts import gTTS
 from playsound3 import playsound
